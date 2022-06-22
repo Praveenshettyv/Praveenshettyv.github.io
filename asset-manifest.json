@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.837468e0.css",
+    "main.js": "/static/js/main.97229122.js",
+    "static/media/praveen.pdf": "/static/media/praveen.d4e4ca7dab40f886b4d1.pdf",
+    "static/media/back_home.png": "/static/media/back_home.26d05696685ec0f9bd7e.png",
+    "static/media/project.png": "/static/media/project.e0da2530164713549545.png",
+    "static/media/hand.png": "/static/media/hand.d3856505eec77db86282.png",
+    "static/media/pic.png": "/static/media/pic.f372acfd3b8fc28bef90.png",
+    "static/media/history.png": "/static/media/history.fb547326b27974008e51.png",
+    "static/media/computer.png": "/static/media/computer.7bd0fb10c0fdaf1ba91f.png",
+    "static/media/edu.png": "/static/media/edu.b7ea4c3d423768c5938d.png",
+    "index.html": "/index.html",
+    "main.837468e0.css.map": "/static/css/main.837468e0.css.map",
+    "main.97229122.js.map": "/static/js/main.97229122.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.837468e0.css",
+    "static/js/main.97229122.js"
+  ]
+}
